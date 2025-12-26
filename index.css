@@ -1,0 +1,8 @@
+/* Basic reset and additional global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Additional utility classes if needed */
