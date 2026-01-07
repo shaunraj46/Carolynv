@@ -37,7 +37,7 @@ const Bio: React.FC = () => {
               </p>
 
               <p>
-                Today, as the Head of NU Hotel within a boutique group at KL Sentral, I have embraced the mantle of <span className="text-slate-900 font-medium italic">Total Business Ownership</span>. My current mandate involves strategic oversight of high-occupancy assets in Malaysia’s busiest transit hub. From maximizing yield through aggressive P&L management to leading brand expansion initiatives, I am focused on proving that boutique hospitality can be both agile and highly profitable under disciplined, visionary leadership.
+                Today, as the Group General Manager of MY Hotel Group, I have embraced the mantle of <span className="text-slate-900 font-medium italic">Total Business Ownership</span>. My current mandate involves strategic oversight of a diverse portfolio including Nu Hotel @ KL Sentral. From maximizing yield through aggressive P&L management to leading brand expansion initiatives, I am focused on proving that boutique hospitality can be both agile and highly profitable under disciplined, visionary leadership.
               </p>
             </div>
           </div>

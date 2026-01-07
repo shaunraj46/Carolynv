@@ -10,8 +10,8 @@ const Footer: React.FC = () => {
           "@context": "https://schema.org",
           "@type": "Person",
           "name": "Carolyn V",
-          "jobTitle": "Head of Hotel Operations",
-          "description": "Experienced hospitality executive specializing in luxury hotel operations and strategic management",
+          "jobTitle": "Group General Manager",
+          "description": "Experienced hospitality executive specializing in multi-property operations and strategic management",
           "url": "https://carolynv.com",
           "image": "https://carolynv.com/carolyn-portrait.jpg",
           "address": {
@@ -30,10 +30,10 @@ const Footer: React.FC = () => {
           ],
           "worksFor": {
             "@type": "Organization",
-            "name": "NU Hotel",
+            "name": "MY Hotel Group",
             "address": {
               "@type": "PostalAddress",
-              "addressLocality": "KL Sentral",
+              "addressLocality": "Kuala Lumpur",
               "addressRegion": "Kuala Lumpur",
               "addressCountry": "MY"
             }
